@@ -1,0 +1,3 @@
+[submodule "spring-bean-life-cycle"]
+	path = spring-bean-life-cycle
+	url = https://github.com/parmarakhil/spring-bean-life-cycle.git
